@@ -28,7 +28,6 @@ receivers:
         endpoint: 0.0.0.0:11800
       http:
         endpoint: 0.0.0.0:12800
-
 service:
   pipelines:
     traces:
